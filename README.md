@@ -1,4 +1,4 @@
-# MVC Node Clean Proyect
+# MVC Node Clean Project
 Este es un proyecto MVC limpio para nodeJs con:   
 * Express
 * Pug
